@@ -1,2 +1,2 @@
 # java-kanban
-Учебный проект на курсе "java-разработчик" от Яндекс практикум
+Repository for homework project.
