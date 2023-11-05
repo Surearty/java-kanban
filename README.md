@@ -4,4 +4,5 @@
 <h2 align="center"> Планировщик задач <h2>
 <p>Задача проекта:</p>
 <p>написать бэкенд трекера задач. В итоге должна получиться программа, отвечающая за формирование модели данных для этой страницы:</p>
-![My Image](/images/Image.png)
+![My Image](https://github.com/Surearty/java-kanban/raw/main/images/Image.png)
+
