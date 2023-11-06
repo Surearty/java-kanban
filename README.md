@@ -80,7 +80,7 @@ public interface HistoryManager {
     List<Task> getHistory();  //возвращает список просмотренных задач
 }
 ```
-<h3 align = "center">класс InMemoryHistoryManager</h3>
+<h3 align = "center">класс InMemoryHistoryManager (история просмотров)</h3>
 
 Данный класс предназначен для хранения списка просмотренных задач
 
